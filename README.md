@@ -2,8 +2,8 @@
 Your project's title
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:** ST10538805 <br>
+**Student Name:** Ednilson Eugenio Mabunda
 
 ## Project Overview
 
