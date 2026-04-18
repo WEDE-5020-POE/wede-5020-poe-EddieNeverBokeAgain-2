@@ -19,8 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-(<img/UnderArmourSitemap.png>)
-
+![sitemap]<img\ Under Armour.png>
 
 ## References
 
