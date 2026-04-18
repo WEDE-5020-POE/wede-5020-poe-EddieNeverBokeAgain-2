@@ -19,9 +19,9 @@ The main goal of the website is to create  a strong online presence and showcase
 
 Key perfomance indicators (KPIs) include:
 
-1.Number of website visitors
-2.User interaction (clicks and navigation)
-3.Time spent on website
+1. Number of website visitors
+2. User interaction (clicks and navigation)
+3. Time spent on website
 
 ## Timeline and Milestones
 
