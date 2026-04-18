@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Under Armour Website
 
 ## Student Information
 **Student number:** ST10538805 <br>
