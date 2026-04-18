@@ -19,7 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-(<img/Under Armour Sitemap.png>)
+(<img/UnderArmourSitemap.png>)
 
 
 ## References
