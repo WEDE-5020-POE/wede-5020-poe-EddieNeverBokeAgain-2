@@ -19,7 +19,8 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![sitemap]<img\ Under Armour.png>
+<img width="2591" height="1024" alt="Under Armour Sitemap" src="https://github.com/user-attachments/assets/390e5add-62a1-4183-a571-f6a77233c6a3" />
+
 
 ## References
 
